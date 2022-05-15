@@ -1,7 +1,7 @@
 # 08-Updated-Portfolio
 
 ## Description
-Portfolio website showcasing achievments
+Portfolio website showcasing achievements
 
 ## Usage
 
